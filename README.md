@@ -1,6 +1,6 @@
 # Python - Binary tree Summation
 
-## This program colors each vertex making sure no connected neighboning vertex is colored the same.
+## This program builds a binary tree, and adds the nodes from the root to the most bottom and collects the highest weight route to the lower nodes.
 
 <img src="Images/1.JPG" width="300" >
   
